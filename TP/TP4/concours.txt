@@ -1,9 +1,0 @@
-123456;Wayne;Bruce;45;admis
-654321;Parker;Peter;25;admis
-987654;Rogers;Steve;32;admis
-98741;Wilson;Wade;22;admis
-54875;Lehnsherr;Erik;23;admis
-536241;Kyle;Selina;24;ajourné
-587469;Brock;Eddie;32;ajourné
-852147;Kent;Clark;24;refusé
-963258;Storm;Sue;31;refusé

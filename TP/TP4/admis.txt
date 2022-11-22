@@ -1,3 +1,0 @@
-654321;Parker;Peter;25;admis
-98741;Wilson;Wade;22;admis
-54875;Lehnsherr;Erik;23;admis
